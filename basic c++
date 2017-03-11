@@ -26,4 +26,4 @@ Partial Class frmUser123
             return;
         
            components.Dispose()
-            End 
+            End if

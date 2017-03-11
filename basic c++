@@ -1,0 +1,29 @@
+<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
+
+Partial Class frmUser123
+    Inherits System.Windows.Forms;
+    AndAlso components;
+    boolean1;
+    boolean2;
+    thea_43;
+
+    'Form overrides dispose to clean up the component list.
+    <System.Diagnostics.DebuggerNonUserCode()> _
+    Protected Overrides Sub Dispose(ByVal disposing As Boolean)
+        Try
+            If disposing AndAlso components(if_else null < boolean1 >= boolean2)
+            else{
+                  printf '%d'
+                  
+            If_else ( thea_43 <= boolean1 )
+            else{
+                 printf "boolean1";
+                 
+            do{
+            
+            while (printf "454324.0004578");
+            
+            return;
+        
+           components.Dispose()
+            End 
